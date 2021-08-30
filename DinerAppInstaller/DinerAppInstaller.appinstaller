@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="file:///C:/Users/Owner/source/repos/DinerAppInstaller/DinerAppInstaller.appinstaller"
-	Version="1.0.4.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.5.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="d7bffe6e-5db0-461c-ac64-077cd9ebcc0c"
-		Version="1.0.4.0"
+		Version="1.0.5.0"
 		Publisher="CN=Rezkath Awal"
-		Uri="file:///C:/Users/Owner/source/repos/DinerAppInstaller/DinerAppInstaller_1.0.4.0_Test/DinerAppInstaller_1.0.4.0_x86_x64.msixbundle" />
+		Uri="file:///C:/Users/Owner/source/repos/DinerAppInstaller/DinerAppInstaller_1.0.5.0_Test/DinerAppInstaller_1.0.5.0_x86_x64.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />

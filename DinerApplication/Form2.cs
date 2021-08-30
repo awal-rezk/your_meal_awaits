@@ -27,6 +27,8 @@ namespace DinerApplication
             // Original image for panel2 is "Photo by Olena Sergienko on Unsplash" taken from https://unsplash.com/photos/RUvTvFkEEco?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
             // Original image for panel3 is "Photo by sk on Unsplash" taken from https://unsplash.com/photos/CK6tjAIMJWM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
             // Original image for panel4 is "Photo by Joshua Ryder on Unsplash" taken from https://unsplash.com/photos/I51a7Yy7mQA?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+
+            // Inspired by https://www.youtube.com/watch?v=2fLCzLdI978
             panel2.Visible = false;
             panel3.Visible = false;
             panel4.Visible = false;
@@ -44,6 +46,8 @@ namespace DinerApplication
 
         private void breakfastBtn_Click(object sender, EventArgs e)
         {
+            // Inspired by https://www.youtube.com/watch?v=2fLCzLdI978
+
             // Switch to panel2
             panel1.Visible = false;
             panel3.Visible = false;
@@ -55,6 +59,8 @@ namespace DinerApplication
 
         private void LunchBtn_Click(object sender, EventArgs e)
         {
+            // Inspired by https://www.youtube.com/watch?v=2fLCzLdI978
+
             // Switch to panel3
             panel1.Visible = false;
             panel2.Visible = false;
@@ -65,12 +71,15 @@ namespace DinerApplication
 
         private void dinnerBtn_Click(object sender, EventArgs e)
         {
+            // Inspired by https://www.youtube.com/watch?v=2fLCzLdI978
+
             // Switch to panel4
             panel1.Visible = false;
             panel2.Visible = false;
             panel3.Visible = false;
             // Dinner panel becomes visible
             panel4.Visible = true;
+
             // Start the timer only when the Dinner panel is visible
             timer1.Start();
         }
@@ -111,6 +120,8 @@ namespace DinerApplication
         }
 
         void returnHome() {
+            // Inspired by https://www.youtube.com/watch?v=2fLCzLdI978
+
             // Make the Breakfast, Lunch, and Dinner panels not visible
             panel2.Visible = false;
             panel3.Visible = false;

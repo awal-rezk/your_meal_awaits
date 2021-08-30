@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="d7bffe6e-5db0-461c-ac64-077cd9ebcc0c" Publisher="CN=Rezkath Awal" Version="1.0.2.0" ProcessorArchitecture="x86" />
+  <Identity Name="d7bffe6e-5db0-461c-ac64-077cd9ebcc0c" Publisher="CN=Rezkath Awal" Version="1.0.4.0" ProcessorArchitecture="x86" />
   <Properties>
     <DisplayName>Your Meal Awaits</DisplayName>
     <PublisherDisplayName>Rezkath Awal</PublisherDisplayName>
