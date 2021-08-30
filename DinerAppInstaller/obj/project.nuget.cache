@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "55voNwCciwV1mEPvZzohS03tKWQHTd/78No+6D/Omdtt7y84j/756eg12mPY8Pi+Lh34wl+ZZExwUTDww6de2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\source\\repos\\DinerAppInstaller\\DinerAppInstaller.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.19041.8\\microsoft.windows.sdk.buildtools.10.0.19041.8.nupkg.sha512"
+  ],
+  "logs": []
+}

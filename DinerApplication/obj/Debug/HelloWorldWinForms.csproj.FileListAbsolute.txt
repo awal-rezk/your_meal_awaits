@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\HelloWorldWinForms\bin\Debug\HelloWorldWinForms.exe.config
+C:\Users\Owner\source\repos\HelloWorldWinForms\bin\Debug\HelloWorldWinForms.exe
+C:\Users\Owner\source\repos\HelloWorldWinForms\bin\Debug\HelloWorldWinForms.pdb
+C:\Users\Owner\source\repos\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.Properties.Resources.resources
+C:\Users\Owner\source\repos\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.exe
+C:\Users\Owner\source\repos\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.pdb
+C:\Users\Owner\source\repos\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.Form2.resources
+C:\Users\Owner\source\repos\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.Form1.resources
