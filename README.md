@@ -8,7 +8,7 @@ When creating Form2, I added a method named “returnHome()” that gets called 
 Next, as for the deployment, I originally tried to use ClickOnce, but I ran into some issues with this tool.  First, without a Microsoft Authenticode Certificate, the Publisher name displayed prior to application installation was not the one I chose prior to publishing the application.  Second, a prompt blocked downloads of the application executable from the internet on two different browsers, and that is not a pleasant experience for any user.  Thus, I tried to use MSIX instead of ClickOnce, and afterwards, said issues were resolved.
 
 # Installation Instructions:
-System Requirements: Windows 10 Operating System, version 1809 or higher.
+System Requirements: Windows 10 Operating System, versions 1809, 1903, 1909, or 2004.
 
 If one prefers to use online installation, one can start by downloading the DinerAppInstallationFiles.zip file (located in the DinerAppInstaller folder).  The .zip file will download.  Next, one can locate the .zip file and extract it.  Then, one can locate the index.html file and double-click on it.  In the browser window that opens, click the “Get the app” button and in the pop-up dialog box that opens with the message “This site is trying to open App Installer”, click the “Open” button.  Next, in the installation pop-up window that opens, click the “Install” button.  By default, the “Launch when ready” radio button is checked, so after installation, the application will launch.
 
