@@ -80,8 +80,6 @@ namespace DinerApplication
             // Dinner panel becomes visible
             panel4.Visible = true;
 
-            // Start the timer only when the Dinner panel is visible
-            timer1.Start();
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
@@ -128,16 +126,6 @@ namespace DinerApplication
             panel4.Visible = false;
             // Switch to main panel (panel1) again
             panel1.Visible = true;
-        }
-
-        
-
-        private void timer1_Tick(object sender, EventArgs e)
-        {
-            // Stop the timer
-            timer1.Stop();
-            //picBox1.Load(@"C:\Users\Owner\source\repos\HelloWorldWinForms\Images\home_icon.jpg");
-
         }
     }
 }

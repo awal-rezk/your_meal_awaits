@@ -29,7 +29,6 @@ namespace DinerApplication
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form2));
             this.breakfastBtn = new System.Windows.Forms.Button();
             this.LunchBtn = new System.Windows.Forms.Button();
@@ -41,7 +40,6 @@ namespace DinerApplication
             this.homeBtn1 = new System.Windows.Forms.Button();
             this.panel4 = new System.Windows.Forms.Panel();
             this.homeBtn3 = new System.Windows.Forms.Button();
-            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.panel3.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel4.SuspendLayout();
@@ -163,11 +161,6 @@ namespace DinerApplication
             this.homeBtn3.UseVisualStyleBackColor = true;
             this.homeBtn3.Click += new System.EventHandler(this.homeBtn3_Click);
             // 
-            // timer1
-            // 
-            this.timer1.Interval = 2000;
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
-            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -203,6 +196,5 @@ namespace DinerApplication
         private System.Windows.Forms.Button homeBtn3;
         private System.Windows.Forms.Button homeBtn2;
         private System.Windows.Forms.Button homeBtn1;
-        private System.Windows.Forms.Timer timer1;
     }
 }

@@ -1,7 +1,6 @@
 C:\Users\Owner\source\repos\DinerApplication\bin\x64\Release\HelloWorldWinForms.exe.config
 C:\Users\Owner\source\repos\DinerApplication\bin\x64\Release\HelloWorldWinForms.exe
 C:\Users\Owner\source\repos\DinerApplication\bin\x64\Release\HelloWorldWinForms.pdb
-C:\Users\Owner\source\repos\DinerApplication\obj\x64\Release\DinerApplication.csproj.AssemblyReference.cache
 C:\Users\Owner\source\repos\DinerApplication\obj\x64\Release\DinerApplication.Form1.resources
 C:\Users\Owner\source\repos\DinerApplication\obj\x64\Release\DinerApplication.Form2.resources
 C:\Users\Owner\source\repos\DinerApplication\obj\x64\Release\HelloWorldWinForms.Properties.Resources.resources
